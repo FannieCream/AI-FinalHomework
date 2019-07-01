@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Projects\\AI\\FinalTry\\Chatbot-Fannie/ChatBot/Generate-Chatbot/seq2seq/model_seq2seq_char/model_ckpt_char_cg.ckp"
+all_model_checkpoint_paths: "D:\\Projects\\AI\\FinalTry\\Chatbot-Fannie/ChatBot/Generate-Chatbot/seq2seq/model_seq2seq_char/model_ckpt_char_cg.ckp"

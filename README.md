@@ -13,37 +13,7 @@
 
 ### 四、代码
 代码目录层级如下：  
-Chatbot-Fannie
-<br/> - Chatbot
- <br/>      - Generate-Chatbot （生成式模型）
- <br/>  <space>        - seq2seq
-    <br/>           - code_seq2seq_char
-  <br/>                - _init_.py
-  <br/>                - predict_char.py
-  <br/>                - preprocess_char.py
-   <br/>               - train_char.py
-   <br/>            —— data_seq2seq_char
-   <br/>            —— model_seq2seq_char
-    <br/>   —— Search-Chatbot（基于检索的模型）
-    <br/>      —— _init_.py
-    <br/>      —— chatbot_fuzzy.py
-  <br/> —— config
-<br/>      —— _init_.py
-  <br/>    —— path_config.py
-<br/>      —— params.json
- <br/>  —— data （训练语料）
-<br/>      —— corpus
-<br/>         —— chicken_and_gossip.txt
-  <br/> —— utils （数据预处理）
-<br/>       —— model_utils
-<br/>          —— _init_.py
-<br/>          —— data_utils.py
-<br/>          —— model_seq2seq.py
-<br/>          —— thread_generator.py
- <br/>         —— word_sequence.py
- <br/>      —— _init_.py
-   <br/>    —— text_preprocess.py
- <br/>      —— word2vec_vector.py
+
          
 ### 五、效果
 见result文件夹

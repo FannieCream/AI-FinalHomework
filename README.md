@@ -12,7 +12,7 @@
  2. 基于检索的聊天机器人模型：python自带的fuzzywuzzy模糊字符串匹配工具包（根据相似度原则在问答库中搜索中最佳的匹配答案）。
 
 ### 四、代码
-代码目录层级如下：  
+代码目录层级如下：  （由于文件集数据大小限制，训练语料只是部分数据）
 ![Image text](https://github.com/FannieCream/AI-FinalHomework/blob/master/result/目录.PNG)
          
 ### 五、效果

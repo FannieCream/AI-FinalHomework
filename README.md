@@ -14,9 +14,9 @@
 ### 四、代码
 代码目录层级如下：  
 Chatbot-Fannie
-<br/> - Chatbot  
- <br/>      - Generate-Chatbot （生成式模型）  
- <br/>          - seq2seq
+<br/> - Chatbot
+ <br/>      - Generate-Chatbot （生成式模型）
+ <br/>  <space>        - seq2seq
     <br/>           - code_seq2seq_char
   <br/>                - _init_.py
   <br/>                - predict_char.py

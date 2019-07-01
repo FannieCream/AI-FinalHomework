@@ -13,7 +13,7 @@
 
 ### 四、代码
 代码目录层级如下：  
-
+![Image text](https://github.com/FannieCream/AI-FinalHomework/blob/master/result/目录.PNG)
          
 ### 五、效果
 见result文件夹

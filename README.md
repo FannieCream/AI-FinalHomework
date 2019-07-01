@@ -14,14 +14,14 @@
 ### 四、代码
 代码目录层级如下：  
 Chatbot-Fannie
-<br/> —— Chatbot  
- <br/>      —— Generate-Chatbot （生成式模型）  
- <br/>          —— seq2seq
-    <br/>           —— code_seq2seq_char
-  <br/>                —— _init_.py
-  <br/>                —— predict_char.py
-  <br/>                —— preprocess_char.py
-   <br/>               —— train_char.py
+<br/> - Chatbot  
+ <br/>      - Generate-Chatbot （生成式模型）  
+ <br/>          - seq2seq
+    <br/>           - code_seq2seq_char
+  <br/>                - _init_.py
+  <br/>                - predict_char.py
+  <br/>                - preprocess_char.py
+   <br/>               - train_char.py
    <br/>            —— data_seq2seq_char
    <br/>            —— model_seq2seq_char
     <br/>   —— Search-Chatbot（基于检索的模型）
